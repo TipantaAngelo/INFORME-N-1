@@ -28,8 +28,9 @@
 
 
  ![image](https://user-images.githubusercontent.com/116808294/201421806-50e899a8-99bf-419c-a165-6a53244137fd.png)
+ 
+ 
 3.	La unidad de voltaje es 
-
 
 
 ![image](https://user-images.githubusercontent.com/116808294/201421849-3aba15dd-cd3e-4e39-865b-5435faf3b482.png)
@@ -37,9 +38,16 @@
 
 5.	Hertz es la unidad de 
 
+
 ![image](https://user-images.githubusercontent.com/116808294/201421896-83e8e2db-e1de-4fdc-822d-1ce3ae07769d.png)
+
+
 ![image](https://user-images.githubusercontent.com/116808294/201421930-54f68f88-0cb4-433b-9f40-943fd483e010.png)
+
+
 ![image](https://user-images.githubusercontent.com/116808294/201421975-a135e991-9e9c-4d1c-90e6-fae45c10b56e.png)
+
+
 11.	Cinco mil volts pueden ser expresados como 
 
 
