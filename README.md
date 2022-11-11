@@ -163,16 +163,14 @@ Son bandas de energia en las que los electrones orbitan.
 
 SECCION 2-2 CARGA ELECTRICA
 
-	¿Cuál es la carga en coulombs del núcleo de un átomo de cobre? 
+
+1.	¿Cuál es la carga en coulombs del núcleo de un átomo de cobre? 
      
 
 ![image](https://user-images.githubusercontent.com/116808294/201423053-ec6a38ee-93fd-4ae3-8f35-b150d4209451.png)
 
 
-	¿Cuántos coulombs de carga poseen 〖50 x 10〗^31 electrones?  
-     
-     
-     ![image](https://user-images.githubusercontent.com/116808294/201423094-7bd76f45-b0fe-40e4-a1d3-8ebf1e938d3a.png)
+![image](https://user-images.githubusercontent.com/116808294/201424612-c2df508b-d4ec-4012-9a50-a0b56b370b92.png)
 
 
 SECCION 2-3 VOLTAJE, CORRIENTE Y RESISTENCIA
