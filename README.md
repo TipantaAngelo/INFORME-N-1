@@ -328,6 +328,10 @@ R = 4500Ω
 ![image](https://user-images.githubusercontent.com/116808294/201424081-7ca045c7-4151-4b68-addd-a04e537ba4ea.png)
 
 
+3. VIDEO
+
+https://youtu.be/V3SizGOb_zM
+
 4. CONCLUSIONES
 
 •	Debido a la lectura y porsterior realizamiento de los ejercicios planteados en el libro “Principios de circuitos electricos” de Floyd se comprendio la importancia de la notacion cientifica y notacion de ingenieria en la resolucion de problemas que tengan que ver con circuitos.
