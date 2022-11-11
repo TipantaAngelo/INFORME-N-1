@@ -134,6 +134,7 @@ SECCION 1-3 NOTACION DE INGENIERIA Y PREFIJOS METRICOS
 
 
 SECCION 1-4 CONVERSIONES DE UNIDADES METRICAS
+
 27.	Realice las conversiones indicadas: 
 
 
@@ -149,6 +150,7 @@ SECCION 1-4 CONVERSIONES DE UNIDADES METRICAS
 CAPITULO 2
 
 SECCION 2-1 
+
 1.	 ¿Cuál es la partícula básica de carga negativa? 
 El Electron
 
@@ -174,6 +176,7 @@ SECCION 2-2 CARGA ELECTRICA
 
 
 SECCION 2-3 VOLTAJE, CORRIENTE Y RESISTENCIA
+
 5.	Determine el voltaje en cada uno de los siguientes casos: 
 
 
@@ -211,6 +214,7 @@ SECCION 2-3 VOLTAJE, CORRIENTE Y RESISTENCIA
 
 
 SECCION 2-4 FUENTES DE VOLTAJE Y DE CORRIENTE
+
 1.	Enliste cuatro fuentes de voltaje comunes. 
 
 
@@ -220,6 +224,7 @@ SECCION 2-4 FUENTES DE VOLTAJE Y DE CORRIENTE
 La fuente de potencia convierte voltaje de ca en voltaje de cd.
 
 SECCION 2-5 RESISTORES
+
 21.	Determine los valores de resistencia y tolerancia para los siguientes resistores de 4 bandas 
 
 
@@ -249,6 +254,7 @@ SECCION 2-5 RESISTORES
 
 
 SECCION 2-6 EL CIRCUITO ELECTRICO
+
 31.	Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
 
 
