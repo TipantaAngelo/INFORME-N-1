@@ -272,6 +272,7 @@ VS1 conectada a R2 y VS2 conectada a R1
 
 
 SECCION 2-7 MEDICIONES DE CIRCUITO BASICAS 
+
 37.	Muestre la colocación de un amperímetro y un voltímetro para medir la corriente y el voltaje de fuente en la figura 2-72.
 
 
@@ -324,14 +325,29 @@ R = 4500Ω
 4. CONCLUSIONES
 
 •	Debido a la lectura y porsterior realizamiento de los ejercicios planteados en el libro “Principios de circuitos electricos” de Floyd se comprendio la importancia de la notacion cientifica y notacion de ingenieria en la resolucion de problemas que tengan que ver con circuitos.
+
+
 •	Gracias a la tesolucion de problemas se entiende de mejor manera las diversas converciones de unidades metricas que existen al momento de construir un circuito.
+
+
 •	No solo se logro establecer las diferencias entre los tipos de circuitos que existen sino tambien conocer los elementos que estos tienen y su utilidad.
+
+
 •	Un tema que se vuelve crucial al comenzar a realizar circuitos en un laboratorio es la seguridad del individuo la cual muchas veces es ignorada.
+
 
 5. BIBLIOGRAFIA
 
 •	Floyd, T. L., Salas, R. N., González, L. M. O., & López, G. P. (2007). Principios de circuitos eléctricos. Pearson Educación.
+
+
 •	Nilsson, J. W., Riedel, S. A., Cázares, G. N., & Fernández, A. S. (1995). Circuitos eléctricos. Addison-Wesley.
+
+
 •	Ingaruca Orihuela, F. J. (2022). Videotutoriales para el aprendizaje de circuitos eléctricos en estudiantes del Instituto de Educación Superior Tecnológico Público Pasco.
+
+
 •	Sáenz, E. M., de la Cruz, J. P., & Garzón, H. S. (2012). Fundamentos de circuitos eléctricos II. Universidad del Valle. Programa Editorial.
+
+
 •	Usaola, J., Moreno, M., Hambley, A., & Sierra, M. (2003). Circuitos eléctricos. Universitario, 77.
